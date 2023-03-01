@@ -13,5 +13,3 @@ npx create-reactbricks-app
 yarn create reactbricks-app
 ```
 
-Otherwise you can directly clone this repo:
-
